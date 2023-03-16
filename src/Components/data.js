@@ -1,0 +1,63 @@
+export const Data=
+[{
+  "Id": 1,
+  "Name": "Cristal",
+  "Degree": "Rider",
+  "Dept": "Automotive",
+  "Doj": "6/15/2022"
+}, {
+  "Id": 2,
+  "Name": "Skyler",
+  "Degree": "Wloch",
+  "Dept": "Baby",
+  "Doj": "1/27/2023"
+}, {
+  "Id": 3,
+  "Name": "Elsie",
+  "Degree": "Leal",
+  "Dept": "Electronics",
+  "Doj": "3/25/2022"
+}, {
+  "Id": 4,
+  "Name": "Sella",
+  "Degree": "Normanville",
+  "Dept": "Books",
+  "Doj": "3/8/2023"
+}, {
+  "Id": 5,
+  "Name": "Carlotta",
+  "Degree": "Feasey",
+  "Dept": "Clothing",
+  "Doj": "2/7/2023"
+}, {
+  "Id": 6,
+  "Name": "Ephrayim",
+  "Degree": "Elson",
+  "Dept": "Clothing",
+  "Doj": "1/25/2023"
+}, {
+  "Id": 7,
+  "Name": "Florrie",
+  "Degree": "Achromov",
+  "Dept": "Baby",
+  "Doj": "7/14/2022"
+}, {
+  "Id": 8,
+  "Name": "Deerdre",
+  "Degree": "Von Hindenburg",
+  "Dept": "Grocery",
+  "Doj": "10/6/2022"
+}, {
+  "Id": 9,
+  "Name": "Edie",
+  "Degree": "Kynett",
+  "Dept": "Tools",
+  "Doj": "10/11/2022"
+}, {
+  "Id": 10,
+  "Name": "Yetty",
+  "Degree": "Snowsill",
+  "Dept": "Baby",
+  "Doj": "3/25/2022"
+}]
+
